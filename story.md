@@ -1,1 +1,0 @@
-Once upon a time, a group of students were learning how to use Git and Github. They wanted to work together in a project, but they were confused about how the collaboration in the github works.
